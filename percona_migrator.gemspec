@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ['lib']
 
   spec.add_runtime_dependency 'rails', '>= 5.0.0'
-  spec.add_runtime_dependency 'mysql2', '0.3.20'
+  spec.add_runtime_dependency 'mysql2', '0.4.4'
 
   spec.add_development_dependency 'bundler', '~> 1.10'
   spec.add_development_dependency 'rake', '~> 10.0'
